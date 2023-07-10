@@ -1,4 +1,5 @@
 baseURL = "https://luckypaul666.github.io/NotionHugo/"
+defaultContentLanguage = "en"
 languageCode = ""
 title = "Lucky Paul"
 theme = "DoIt"
